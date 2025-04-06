@@ -25,6 +25,7 @@
 
 #### Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
 #### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -32,5 +33,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Protechnyy&show_icons=true&theme=dark&hide_border=true" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Protechnyy&theme=dark&hide_border=true" /> </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Protechnyy&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Protechnyy&theme=dark&hide_border=true" />
+</div>
 
+<hr>
+
+<div align="center">
+   🌸 "热爱可抵岁月漫长。" 🌸
+</div>
