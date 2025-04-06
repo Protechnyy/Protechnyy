@@ -8,7 +8,9 @@
 
 ### 🙂 About Me
 
-🎓 Senior Undergraduate in Software Engineering @ UESTC(University of Electronic Science and Technology of China) | Incoming MS in Computer Technology @ UESTC
+🎓 Senior Undergraduate in Software Engineering @ UESTC(University of Electronic Science and Technology of China)
+
+🎓 Incoming MS in Computer Technology @ UESTC(University of Electronic Science and Technology of China)
 
 💼 Backend Engineer Intern @ Kuaishou Main Platform Tech Department
 
