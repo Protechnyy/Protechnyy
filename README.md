@@ -16,6 +16,16 @@
 
 📫 How to reach me: 2021090907016@std.uestc.edu.cn
 
+### 🛠 **Tech Arsenal**
+#### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+#### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ### 📊 GitHub Analytics
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Protechnyy&show_icons=true&theme=dark&hide_border=true" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Protechnyy&theme=dark&hide_border=true" /> </div>
 
