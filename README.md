@@ -1,9 +1,21 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=870&height=100&lines=%F0%9F%91%8BHello%2C+I+am+Yu+Yang!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=870&height=100&lines=%F0%9F%91%8BHello%2C+I+am+Yu+Yang!;Backend+Architect+%E2%9A%99%EF%B8%8F|+Tech+Enthusiast+%F0%9F%92%BB;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing Header" />
+  </a>
 </div>
 
-Hello, I'm Yu Yang, a senior undergraduate majoring in Software Engineering at the University of Electronic Science and Technology of China (UESTC), and I will continue my graduate studies in Computer Technology here.
+<hr>
 
-I have accumulated some experience in backend development and have interned as a Backend Development Engineer at Kuaishou Main Platform Technology Department.
+### 🙂 About Me
 
-🌟 Have a Nice day! 🌟
+🎓 Senior Undergraduate in Software Engineering @ UESTC(University of Electronic Science and Technology of China) | Incoming MSc in Computer Technology @ UESTC
+
+💼 Backend Engineer Intern @ Kuaishou Main Platform Tech Department
+
+🌱 Currently exploring: Natural Language Processing, Multimodal Relation Extraction
+
+📫 How to reach me: 2021090907016@std.uestc.edu.cn
+
+### 📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Protechnyy&show_icons=true&theme=dark&hide_border=true" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Protechnyy&theme=dark&hide_border=true" /> </div>
+
