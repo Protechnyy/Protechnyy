@@ -18,6 +18,8 @@
 
 📫 How to reach me: 2021090907016@std.uestc.edu.cn
 
+🌸 My Blog：https://blog.sakanayu.site/
+
 ### 🛠 **Tech Arsenal**
 #### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
