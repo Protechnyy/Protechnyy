@@ -16,7 +16,7 @@
 
 🌱 Currently exploring: Natural Language Processing, Multimodal Relation Extraction
 
-📫 How to reach me: 2021090907016@std.uestc.edu.cn
+📫 How to reach me: 202522081427@std.uestc.edu.cn
 
 🌸 My Blog：https://blog.sakanayu.site/
 
