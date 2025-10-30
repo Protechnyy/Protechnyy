@@ -8,11 +8,11 @@
 
 ### 🙂 About Me
 
-🎓 Senior Undergraduate in Software Engineering @ UESTC (University of Electronic Science and Technology of China)
+🎓 Senior Undergraduate in Software Engineering @ UESTC (2021.09~2025.06)
 
-🎓 Incoming MS in Computer Technology @ UESTC
+🎓 MS in Computer Technology @ UESTC(2025.09~now)
 
-💼 Backend Engineer Intern @ Kuaishou Main Platform Tech Department
+💼 Backend Engineer Intern @ Kuaishou Main Platform Tech Department(2024.01~2024.07)
 
 🌱 Currently exploring: Natural Language Processing, Multimodal Relation Extraction
 
