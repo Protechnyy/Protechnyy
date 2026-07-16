@@ -10,7 +10,7 @@
 
 I am currently a Master's student in Computer Technology at the University of Electronic Science and Technology of China.
 
-My research interests include 3D Scene Graph Generation.
+My research interests include Information Extraction, 3D Scene Graph Generation.
 
 ### Education
 
