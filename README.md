@@ -1,11 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=870&height=100&lines=%F0%9F%91%8BHello%2C+I+am+Yu+Yang!" alt="Typing Header" />
-  </a>
-</div>
-
-<hr>
-
 ### About Me
 
 I am currently a Master's student in Computer Technology at the University of Electronic Science and Technology of China.
